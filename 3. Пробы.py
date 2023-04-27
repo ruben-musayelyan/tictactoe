@@ -30,3 +30,4 @@ def draw_board():
         #! прорисовка    ___|___|___|
 
 draw_board()
+print("It's all good")
